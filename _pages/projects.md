@@ -102,7 +102,7 @@ Here's a comprehensive overview of my projects across different domains includin
 
 ![Vision Transformer Architecture](/assets/images/projects/vit-architecture.png)
 
-A complete PyTorch implementation of Vision Transformer (ViT) built from the ground up, following the seminal paper "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."
+A complete PyTorch implementation of Vision Transformer (ViT) built from the ground up, following the paper "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."
 
 **Technologies:** Python, PyTorch, Computer Vision, Deep Learning
 
@@ -119,7 +119,11 @@ An intelligent system that generates complex mazes and develops AI agents to hel
 
 ### KnightSight
 **Repository:** [KnightSight](https://github.com/sjrom47/KnightSight) 
-![KnightSight Demo](/assets/videos/projects/knightsight.mp4)
+
+<video controls>
+  <source src="/assets/videos/projects/knightsight.mp4" type="video/mp4">
+  Your browser doesn't support video playback.
+</video>
 
 A sophisticated computer vision tool that analyzes chess piece placement on physical chess boards and interfaces with chess engines for game analysis.
 
