@@ -10,6 +10,37 @@ header:
 toc: false
 ---
 
+<style>
+/* Style for all images in project sections */
+.page__content img {
+  max-width: 400px;
+  max-height: 300px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  margin: 1rem auto;
+  display: block;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover effect for images */
+.page__content img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+}
+
+/* Responsive design for mobile */
+@media (max-width: 768px) {
+  .page__content img {
+    max-width: 100%;
+    max-height: 250px;
+    margin: 0.5rem auto;
+  }
+}
+</style>
+
 # My Projects Portfolio
 
 Here's a comprehensive overview of my projects across different domains including artificial intelligence, computer vision, and data science.
