@@ -11,7 +11,7 @@ header:
 
 # About Sergio Jiménez Romero
 
-¡Hola! I'm Sergio, a passionate Mathematics Engineering and Artificial Intelligence student at Universidad Pontificia Comillas (ICAI) in Madrid, Spain. My journey in technology is driven by curiosity and a desire to solve complex problems using cutting-edge AI and mathematical techniques.
+I'm Sergio, a passionate Mathematics Engineering and Artificial Intelligence student at Universidad Pontificia Comillas (ICAI) in Madrid, Spain. My journey in technology is driven by curiosity and a desire to solve complex problems using cutting-edge AI and mathematical techniques.
 
 ## 🎓 Academic Background
 
