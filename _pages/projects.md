@@ -31,11 +31,61 @@ toc: false
   box-shadow: 0 6px 20px rgba(0,0,0,0.2);
 }
 
+/* Style for all videos in project sections */
+.page__content video {
+  max-width: 600px;
+  max-height: 400px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  margin: 1rem auto;
+  display: block;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover effect for videos */
+.page__content video:hover {
+  transform: scale(1.01);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+}
+
+/* Style for iframe videos (YouTube, Vimeo, etc.) */
+.page__content iframe {
+  max-width: 600px;
+  width: 100%;
+  height: 338px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  margin: 1rem auto;
+  display: block;
+  border: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover effect for iframe videos */
+.page__content iframe:hover {
+  transform: scale(1.01);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+}
+
 /* Responsive design for mobile */
 @media (max-width: 768px) {
   .page__content img {
     max-width: 100%;
     max-height: 250px;
+    margin: 0.5rem auto;
+  }
+  
+  .page__content video {
+    max-width: 100%;
+    max-height: 300px;
+    margin: 0.5rem auto;
+  }
+  
+  .page__content iframe {
+    max-width: 100%;
+    height: 250px;
     margin: 0.5rem auto;
   }
 }
@@ -68,7 +118,8 @@ An intelligent system that generates complex mazes and develops AI agents to hel
 ## Computer Vision
 
 ### KnightSight
-**Repository:** [KnightSight](https://github.com/sjrom47/KnightSight) ⭐
+**Repository:** [KnightSight](https://github.com/sjrom47/KnightSight) 
+![KnightSight Demo](/assets/videos/projects/knightsight.mp4)
 
 A sophisticated computer vision tool that analyzes chess piece placement on physical chess boards and interfaces with chess engines for game analysis.
 
