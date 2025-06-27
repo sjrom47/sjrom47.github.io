@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Sergio Jiménez Romero"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Maths Engineering and AI Student** at Universidad Pontificia Comillas (ICAI). Passionate about machine learning, computer vision, and software development."
+  bio              : "**Maths Engineering and AI Student** at Universidad Pontificia Comillas (ICAI). Passionate about machine learning, computer vision, NLP and robotics."
   location         : "Madrid, Spain"
   email            : "202201520@alu.comillas.edu"
   links:

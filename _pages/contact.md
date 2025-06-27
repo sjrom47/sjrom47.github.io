@@ -1,12 +1,12 @@
 ---
 permalink: /contact/
 title: "Contact"
-author_profile: true
+author_profile: false
 layout: single
+classes: wide
 header:
-  overlay_color: "#000"
+  overlay_color: "#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/contact-header.jpg
 ---
 
 # Get In Touch

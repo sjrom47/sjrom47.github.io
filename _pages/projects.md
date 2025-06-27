@@ -1,12 +1,12 @@
 ---
 permalink: /projects/
 title: "Projects"
-author_profile: true
+author_profile: false
 layout: single
+classes: wide
 header:
-  overlay_color: "#000"
+  overlay_color: "#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/projects-header.jpg
 toc: true
 toc_label: "Project Categories"
 toc_icon: "cog"
