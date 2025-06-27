@@ -13,7 +13,7 @@ header:
 
 I'm always excited to connect with fellow developers, students, researchers, and anyone interested in artificial intelligence, machine learning, or technology in general.
 
-## 📧 Direct Contact
+## Direct Contact
 
 **Email:** [202201520@alu.comillas.edu](mailto:202201520@alu.comillas.edu)  
 Feel free to reach out via email for:
@@ -23,7 +23,7 @@ Feel free to reach out via email for:
 - Job opportunities
 - General inquiries
 
-## 🌐 Professional Networks
+## Professional Networks
 
 **LinkedIn:** [sergio-jiménez-romero](https://www.linkedin.com/in/sergio-jiménez-romero/)  
 Connect with me on LinkedIn for professional networking and updates on my career journey.
@@ -31,13 +31,13 @@ Connect with me on LinkedIn for professional networking and updates on my career
 **GitHub:** [@sjrom47](https://github.com/sjrom47)  
 Check out my latest projects, contribute to my repositories, or start a discussion about code.
 
-## 🎓 Academic Context
+## Academic Context
 
 **Institution:** Universidad Pontificia Comillas (ICAI)  
 **Location:** Madrid, Spain  
 **Field:** Mathematics Engineering and Artificial Intelligence
 
-## 🔗 Quick Links
+## Quick Links
 
 - [About Me](/about/) - Learn more about my background and interests
 - [Projects](/projects/) - Explore my technical projects and code

@@ -45,7 +45,7 @@ toc: false
 
 Here's a comprehensive overview of my projects across different domains including artificial intelligence, computer vision, and data science.
 
-## 🤖 Artificial Intelligence & Machine Learning
+## Artificial Intelligence & Machine Learning
 
 ### Vision Transformer from Scratch
 **Repository:** [ViT_from_scratch](https://github.com/sjrom47/ViT_from_scratch)
@@ -65,7 +65,7 @@ An intelligent system that generates complex mazes and develops AI agents to hel
 
 **Technologies:** Python, AI Algorithms, Pathfinding, Logic, Bayesian Inference
 
-## 🔍 Computer Vision
+## Computer Vision
 
 ### KnightSight
 **Repository:** [KnightSight](https://github.com/sjrom47/KnightSight) ⭐
@@ -74,7 +74,7 @@ A sophisticated computer vision tool that analyzes chess piece placement on phys
 
 **Technologies:** Python, OpenCV, Computer Vision, Chess Engines, Image Processing
 
-## 📊 Data Science & Databases
+## Data Science & Databases
 
 ### Amazon Reviews Database System
 **Repository:** [Amazon-reviews-database](https://github.com/sjrom47/Amazon-reviews-database)
@@ -83,7 +83,7 @@ A comprehensive database system designed to store, process, and analyze Amazon p
 
 **Technologies:** Python, Database Design, Data Processing, Analytics
 
-## ⛓️ Blockchain & Distributed Systems
+## Blockchain & Distributed Systems
 
 ### Python Blockchain Implementation
 **Repository:** [Blockchain](https://github.com/sjrom47/Blockchain)
@@ -92,7 +92,7 @@ A complete blockchain application built in Python to understand and demonstrate 
 
 **Technologies:** Python, Blockchain, Cryptography, Distributed Systems
 
-## 🎯 Future Projects
+## Future Projects
 
 I'm constantly working on new projects and exploring emerging technologies. Some areas I'm currently focusing on:
 
