@@ -7,9 +7,7 @@ classes: wide
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
-toc: true
-toc_label: "Project Categories"
-toc_icon: "cog"
+toc: false
 ---
 
 # My Projects Portfolio
