@@ -18,9 +18,9 @@ I'm Sergio, a passionate Mathematics Engineering and Artificial Intelligence stu
 
 ## 🎓 Academic Background
 
-**Mathematics Engineering and AI**  
+**Bachelor's in Mathematics Engineering and AI**  
 *Universidad Pontificia Comillas (ICAI), Madrid*  
-*Current Student*
+*Current Student (Senior year)*
 
 
 
