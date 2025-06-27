@@ -14,7 +14,7 @@ toc_icon: "cog"
 
 # My Projects Portfolio
 
-Here's a comprehensive overview of my projects across different domains including artificial intelligence, computer vision, blockchain, and data science.
+Here's a comprehensive overview of my projects across different domains including artificial intelligence, computer vision, and data science.
 
 ## 🤖 Artificial Intelligence & Machine Learning
 
@@ -97,40 +97,6 @@ A complete blockchain application built in Python to understand and demonstrate 
 
 **Technologies:** Python, Blockchain, Cryptography, Distributed Systems
 
-## 🔧 Technical Skills Demonstrated
-
-Through these projects, I've developed expertise in:
-
-### Programming Languages
-- **Python**: Primary language for AI/ML, data science, and backend development
-- **C#**: Desktop applications and Unity game development
-- **R**: Statistical analysis and data visualization
-- **MATLAB**: Mathematical computing and algorithm development
-- **Bash/Shell**: System automation and scripting
-
-### AI/ML Technologies
-- **PyTorch**: Deep learning framework for neural network development
-- **TensorFlow**: Machine learning and AI model deployment
-- **OpenCV**: Computer vision and image processing
-- **Scikit-learn**: Machine learning algorithms and data preprocessing
-
-### Data Technologies
-- **MySQL**: Relational database management
-- **MongoDB**: NoSQL document databases
-- **Neo4j**: Graph database systems
-- **Pandas**: Data manipulation and analysis
-
-### Development Tools
-- **Git/GitHub**: Version control and collaborative development
-- **Docker**: Containerization and deployment
-- **Linux**: Development environment and system administration
-- **ROS**: Robotics Operating System
-
-### Web Technologies
-- **React**: Frontend user interface development
-- **Node.js**: Backend API development
-- **HTML/CSS/JavaScript**: Web development fundamentals
-
 ## 🎯 Future Projects
 
 I'm constantly working on new projects and exploring emerging technologies. Some areas I'm currently focusing on:
@@ -140,19 +106,7 @@ I'm constantly working on new projects and exploring emerging technologies. Some
 - **Quantum Computing**: Understanding quantum algorithms and their applications
 - **Edge AI**: Deploying AI models on edge devices and embedded systems
 
-## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjrom47&count_private=true&show_icons=true&theme=gruvbox)
-
-## 🤝 Collaboration
-
-I'm always open to collaborating on interesting projects, especially those involving:
-- Machine Learning and AI research
-- Computer Vision applications
-- Open source contributions
-- Educational content and tutorials
-
-Feel free to reach out if you'd like to work together or discuss any of these projects!
 
 **Contact:**
 - Email: [202201520@alu.comillas.edu](mailto:202201520@alu.comillas.edu)
