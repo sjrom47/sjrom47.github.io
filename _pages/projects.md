@@ -120,11 +120,17 @@ An intelligent system that generates complex mazes and develops AI agents to hel
 ### KnightSight
 **Repository:** [KnightSight](https://github.com/sjrom47/KnightSight) 
 
-![Knightsight](/assets/images/projects/knightsight_demo.gif)
-
 A sophisticated computer vision tool that analyzes chess piece placement on physical chess boards and interfaces with chess engines for game analysis.
 
 **Technologies:** Python, OpenCV, Computer Vision, Chess Engines, Image Processing
+
+## Mathematics
+### Mathematical Algorithms
+**Repository:** [math-algorithms](https://github.com/sjrom47/math_algorithms)
+
+A collection of mathematical algorithms implemented in Python and matlab, covering topics such as number theory, computational geometry or linear algebra.
+
+**Technologies:** Python, MATLAB, numpy
 
 ## Data Science & Databases
 
