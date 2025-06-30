@@ -107,6 +107,12 @@ A complete PyTorch implementation of Vision Transformer (ViT) built from the gro
 **Technologies:** Python, PyTorch, Computer Vision, Deep Learning
 
 ---
+### CNN Explainability techniques
+**Repository:** [XAI_CNN](https://github.com/sjrom47/XAI_CNN)
+
+![Explainability Techniques](/assets/images/projects/xai-cnn.png)
+
+A project focused on implementing various explainability techniques found in the paper Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps for Convolutional Neural Networks (CNNs) to understand model predictions better.
 
 ### Maze Navigation AI
 **Repository:** [Maze-navigation](https://github.com/sjrom47/Maze-navigation)
