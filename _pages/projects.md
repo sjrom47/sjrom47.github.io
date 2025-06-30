@@ -126,7 +126,7 @@ An intelligent system that generates complex mazes and develops AI agents to hel
 ### KnightSight
 **Repository:** [KnightSight](https://github.com/sjrom47/KnightSight) 
 
-![KnightSight](/assets/images/projects/knightsight.jpg)
+![KnightSight](/assets/images/projects/knightsight.png)
 
 A sophisticated computer vision tool that analyzes chess piece placement on physical chess boards and interfaces with chess engines for game analysis.
 
