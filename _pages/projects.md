@@ -165,7 +165,7 @@ I'm constantly working on new projects and exploring emerging technologies. Some
 - **Generative AI**: Exploring large language models and diffusion models
 - **Robotics**: Integrating AI and VLA models with robotic systems
 - **Advanced Computer Vision**: Developing more sophisticated image and video analysis tools
-- ***LLM Fine-tuning**: Experimenting with fine-tuning large language models for specific tasks
+- **LLM Fine-tuning**: Experimenting with fine-tuning large language models for specific tasks
 
 
 
