@@ -163,8 +163,9 @@ A complete blockchain application built in Python to understand and demonstrate 
 I'm constantly working on new projects and exploring emerging technologies. Some areas I'm currently focusing on:
 
 - **Generative AI**: Exploring large language models and diffusion models
-- **Robotics**: Integrating AI with robotic systems using ROS
+- **Robotics**: Integrating AI and VLA models with robotic systems
 - **Advanced Computer Vision**: Developing more sophisticated image and video analysis tools
+- ***LLM Fine-tuning**: Experimenting with fine-tuning large language models for specific tasks
 
 
 
