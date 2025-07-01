@@ -132,7 +132,14 @@ A sophisticated computer vision tool that analyzes chess piece placement on phys
 
 **Technologies:** Python, OpenCV, Computer Vision, Chess Engines, Image Processing
 
-## Mathematics
+## Mathematics and statistics
+### Markov Chain Sampler (Metropolis-Hastings)
+**Repository:** [MC-Sampler](https://github.com/sjrom47/MC_Sampler)
+
+![Markov Chain Sampler](/assets/images/projects/mc-sampler.png)
+
+An implementation of the Metropolis-Hastings algorithm for sampling from complex probability distributions, useful in Bayesian statistics and machine learning.
+
 ### Mathematical Algorithms
 **Repository:** [math-algorithms](https://github.com/sjrom47/math_algorithms)
 
